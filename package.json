@@ -1,0 +1,16 @@
+{
+  "name": "ajax-cast",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "blueimp-md5": "^2.10.0",
+    "jquery": "^3.2.1"
+  }
+}
